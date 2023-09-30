@@ -1,4 +1,3 @@
-[[![MasterHead]](https://media.licdn.com/dms/image/D4D16AQERPTf9PxyFTA/profile-displaybackgroundimage-shrink_350_1400/0/1689205933311?e=1701302400&v=beta&t=atq4uF34rECH7HaejcHHvODEjfrmF_0Qyt_TWWImEyo)
 <h1 align="center">Hi 👋, I'm Nurgül Özçilingir</h1>
 <h3 align="center">Passionate Frontend Developer | Next.js & React Enthusiast | Crafting Beautiful User Experiences with Code</h3>
 
