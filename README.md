@@ -5,5 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 📫 How to reach me **ozcilingirnurgul21@gmail.com**
+Specialties: JavaScript, C#, SQL, HTML, CSS
+
+Technologies: React.Js, Next.js, Redux, Bootstrap, Npm, .Net, SASS, Taildwind, MaterialUI
 
