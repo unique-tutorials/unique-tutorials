@@ -1,5 +1,5 @@
 <h3 >Hi 👋, I'm Nurgül Özçilingir</h3>
-<h6>Passionate Frontend Developer | Next.js & React Enthusiast | Crafting Beautiful User Experiences with Code</h6>
+As a Frontend Developer, I create user-oriented projects with modern web technologies. I aim to offer high-performance and aesthetic designs by developing projects especially with React and Next.js frameworks. I see technology as a passion, and I take care to improve myself by constantly learning and adapting to innovations.
 
 - 🔭 I’m currently working on **React, Next.js**
 
